@@ -1,0 +1,13 @@
+{
+  "product": "Khavaro",
+  "author": "Khavay",
+  "version": "1.0.0",
+  "support_email": "khavay.support@gmail.com",
+  "pages": [
+    "index.html",
+    "getting-started.html",
+    "customization.html",
+    "storefront.html",
+    "troubleshooting.html"
+  ]
+}
